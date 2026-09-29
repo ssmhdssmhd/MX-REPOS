@@ -1,0 +1,834 @@
+{
+  "version": "v.0.0.1",
+  "updated": "2026-09-29",
+  "total": 125,
+  "categories": [
+    {
+      "key": "movie",
+      "title": "🎬 影视 & TVBox（播放器 / 直播 / 下载 / 接口）",
+      "count": 29,
+      "repos": [
+        {
+          "name": "MXAPP",
+          "url": "https://github.com/ssmhdssmhd/MXAPP",
+          "description": "沫兮 App 前台（基于 TVBoxOS），由苹果CMS插件 mxgt 下发配置控制",
+          "language": "Java"
+        },
+        {
+          "name": "MXboxS",
+          "url": "https://github.com/ssmhdssmhd/MXboxS",
+          "description": "影视 TVbox 手机版",
+          "language": "Java"
+        },
+        {
+          "name": "TVBoxOS",
+          "url": "https://github.com/ssmhdssmhd/TVBoxOS",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "TVBoxOSC",
+          "url": "https://github.com/ssmhdssmhd/TVBoxOSC",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "TV",
+          "url": "https://github.com/ssmhdssmhd/TV",
+          "description": "",
+          "language": "Java"
+        },
+        {
+          "name": "Box",
+          "url": "https://github.com/ssmhdssmhd/Box",
+          "description": "Experimental",
+          "language": ""
+        },
+        {
+          "name": "tvbox",
+          "url": "https://github.com/ssmhdssmhd/tvbox",
+          "description": "tvbox影视仓在线接口私有化工具，将接口json和jar保存到自己的git仓库",
+          "language": "Python"
+        },
+        {
+          "name": "tvbox1",
+          "url": "https://github.com/ssmhdssmhd/tvbox1",
+          "description": "TVBox Interface / TVBox 接口 / OK影视",
+          "language": ""
+        },
+        {
+          "name": "tvboxok",
+          "url": "https://github.com/ssmhdssmhd/tvboxok",
+          "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "language": "JavaScript"
+        },
+        {
+          "name": "pg",
+          "url": "https://github.com/ssmhdssmhd/pg",
+          "description": "如果喜欢，请点亮右上角星星，如有侵权请反馈！谢谢！🌶PG节奏熊猫：本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负。",
+          "language": "JavaScript"
+        },
+        {
+          "name": "PG-",
+          "url": "https://github.com/ssmhdssmhd/PG-",
+          "description": "实时更新PG本地包和在线接口 http://www.xueximeng.com/p/jsm.json",
+          "language": "Python"
+        },
+        {
+          "name": "pg-tvbox",
+          "url": "https://github.com/ssmhdssmhd/pg-tvbox",
+          "description": "PG影视聚合包优化版：官方/切片资源站+m3u8解析+国内国外直播分离，兼容影视/OK影视/mxboxs",
+          "language": "JavaScript"
+        },
+        {
+          "name": "CatPawOpen",
+          "url": "https://github.com/ssmhdssmhd/CatPawOpen",
+          "description": "Continue the development of CatVodOpen.",
+          "language": ""
+        },
+        {
+          "name": "mu_hua_movie",
+          "url": "https://github.com/ssmhdssmhd/mu_hua_movie",
+          "description": "一个影视采集播放的app，懂得都懂吧",
+          "language": ""
+        },
+        {
+          "name": "Release-",
+          "url": "https://github.com/ssmhdssmhd/Release-",
+          "description": "tvbox",
+          "language": "Batchfile"
+        },
+        {
+          "name": "ytdlnis",
+          "url": "https://github.com/ssmhdssmhd/ytdlnis",
+          "description": "Android Video/Audio Downloader app using yt-dlp",
+          "language": ""
+        },
+        {
+          "name": "YYeTsBot",
+          "url": "https://github.com/ssmhdssmhd/YYeTsBot",
+          "description": "🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享",
+          "language": ""
+        },
+        {
+          "name": "vstv",
+          "url": "https://github.com/ssmhdssmhd/vstv",
+          "description": "VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）",
+          "language": ""
+        },
+        {
+          "name": "my-tv-0",
+          "url": "https://github.com/ssmhdssmhd/my-tv-0",
+          "description": "我的電視·〇 電視視頻播放軟件，可以自定義視頻源",
+          "language": ""
+        },
+        {
+          "name": "my-tv-server",
+          "url": "https://github.com/ssmhdssmhd/my-tv-server",
+          "description": "启动一个本地的视频源服务。为了更好的稳定性、隐私性、便捷性，可以把一个视频源文件发布到一个本地地址，添加到本地视频播放器。",
+          "language": ""
+        },
+        {
+          "name": "webhtv",
+          "url": "https://github.com/ssmhdssmhd/webhtv",
+          "description": "基于鱼佬的WebHomeTV二次开发，调整了部分交互方式，支持Python和JavaScript源的TMDB海报。",
+          "language": ""
+        },
+        {
+          "name": "LLQPlayer",
+          "url": "https://github.com/ssmhdssmhd/LLQPlayer",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "Superplayer",
+          "url": "https://github.com/ssmhdssmhd/Superplayer",
+          "description": "超级播放器-修改版",
+          "language": ""
+        },
+        {
+          "name": "Player_Android",
+          "url": "https://github.com/ssmhdssmhd/Player_Android",
+          "description": "Super player for android...",
+          "language": ""
+        },
+        {
+          "name": "MXYS",
+          "url": "https://github.com/ssmhdssmhd/MXYS",
+          "description": "",
+          "language": "PHP"
+        },
+        {
+          "name": "json",
+          "url": "https://github.com/ssmhdssmhd/json",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "json.ssmhd.icu",
+          "url": "https://github.com/ssmhdssmhd/json.ssmhd.icu",
+          "description": "",
+          "language": "PHP"
+        },
+        {
+          "name": "yccd",
+          "url": "https://github.com/ssmhdssmhd/yccd",
+          "description": "远程菜单",
+          "language": "HTML"
+        },
+        {
+          "name": "mxgtcms",
+          "url": "https://github.com/ssmhdssmhd/mxgtcms",
+          "description": "",
+          "language": "PHP"
+        }
+      ]
+    },
+    {
+      "key": "parse",
+      "title": "🔗 视频解析接口（MX 系列）",
+      "count": 11,
+      "repos": [
+        {
+          "name": "MXGT",
+          "url": "https://github.com/ssmhdssmhd/MXGT",
+          "description": "MXGT 多源解析播放项目",
+          "language": "PHP"
+        },
+        {
+          "name": "MXGJ",
+          "url": "https://github.com/ssmhdssmhd/MXGJ",
+          "description": "",
+          "language": "PHP"
+        },
+        {
+          "name": "MX-jx",
+          "url": "https://github.com/ssmhdssmhd/MX-jx",
+          "description": "",
+          "language": "PHP"
+        },
+        {
+          "name": "MX-json",
+          "url": "https://github.com/ssmhdssmhd/MX-json",
+          "description": "可以免费解析腾讯.爱奇艺.等等热门解析",
+          "language": "PHP"
+        },
+        {
+          "name": "mxjx",
+          "url": "https://github.com/ssmhdssmhd/mxjx",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "mxjxqcb",
+          "url": "https://github.com/ssmhdssmhd/mxjxqcb",
+          "description": "对接云海解析计费系统",
+          "language": "PHP"
+        },
+        {
+          "name": "MXTX",
+          "url": "https://github.com/ssmhdssmhd/MXTX",
+          "description": "",
+          "language": "JavaScript"
+        },
+        {
+          "name": "qcb",
+          "url": "https://github.com/ssmhdssmhd/qcb",
+          "description": "",
+          "language": "PHP"
+        },
+        {
+          "name": "PYXT",
+          "url": "https://github.com/ssmhdssmhd/PYXT",
+          "description": "",
+          "language": "Go"
+        },
+        {
+          "name": "zf",
+          "url": "https://github.com/ssmhdssmhd/zf",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "xyplayer",
+          "url": "https://github.com/ssmhdssmhd/xyplayer",
+          "description": "XyPlayer 智能解析",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "tunnel",
+      "title": "🌐 内网穿透 & 隧道",
+      "count": 11,
+      "repos": [
+        {
+          "name": "MXPY",
+          "url": "https://github.com/ssmhdssmhd/MXPY",
+          "description": "让没有公网 IP 的设备，支持公网 IP，并且随时支持更新 IP",
+          "language": ""
+        },
+        {
+          "name": "easytunnel",
+          "url": "https://github.com/ssmhdssmhd/easytunnel",
+          "description": "没有公网 IP 可以用，沫兮开发",
+          "language": "Python"
+        },
+        {
+          "name": "orbien",
+          "url": "https://github.com/ssmhdssmhd/orbien",
+          "description": "一个轻量高性能的内网穿透工具，二进制体积大约5MB ，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS 协议代理，提供纯Rust原生跨平台桌面客户端和服务端 Web 界面",
+          "language": ""
+        },
+        {
+          "name": "nps",
+          "url": "https://github.com/ssmhdssmhd/nps",
+          "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+          "language": ""
+        },
+        {
+          "name": "efrp",
+          "url": "https://github.com/ssmhdssmhd/efrp",
+          "description": "【内网映射系统】Efrp内网选择技术可轻松实现通过等访问端口访问内网数据，IP+网实现中网站、OA、ERP、远程桌面、NAS、摄像头头的应用场景。",
+          "language": ""
+        },
+        {
+          "name": "frpc-desktop",
+          "url": "https://github.com/ssmhdssmhd/frpc-desktop",
+          "description": "frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本",
+          "language": "Vue"
+        },
+        {
+          "name": "frpc-hub",
+          "url": "https://github.com/ssmhdssmhd/frpc-hub",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "FrpClient-Win",
+          "url": "https://github.com/ssmhdssmhd/FrpClient-Win",
+          "description": "frpc Windows 图形界面客户端, frpc Windows GUI client.图形化配置frpc,支持开机启动.",
+          "language": ""
+        },
+        {
+          "name": "Natter-ip-",
+          "url": "https://github.com/ssmhdssmhd/Natter-ip-",
+          "description": "Expose your TCP/UDP port behind full-cone NAT to the Internet.",
+          "language": ""
+        },
+        {
+          "name": "tq-frp-public",
+          "url": "https://github.com/ssmhdssmhd/tq-frp-public",
+          "description": "天启frp管理面板、内网穿透管理面板、frp、frps web",
+          "language": ""
+        },
+        {
+          "name": "hostc",
+          "url": "https://github.com/ssmhdssmhd/hostc",
+          "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "proxy",
+      "title": "🛰️ 代理 & 机场面板",
+      "count": 11,
+      "repos": [
+        {
+          "name": "slte",
+          "url": "https://github.com/ssmhdssmhd/slte",
+          "description": "基于 mihomo 内核构建的 Android 代理客户端，支持 XiaoV2b / Xboard 面板",
+          "language": ""
+        },
+        {
+          "name": "FlyClash-Android",
+          "url": "https://github.com/ssmhdssmhd/FlyClash-Android",
+          "description": "FlyClash客户端安卓版本",
+          "language": ""
+        },
+        {
+          "name": "x-ui",
+          "url": "https://github.com/ssmhdssmhd/x-ui",
+          "description": "可对接Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.",
+          "language": ""
+        },
+        {
+          "name": "XrayR-release",
+          "url": "https://github.com/ssmhdssmhd/XrayR-release",
+          "description": "OK XrayR 一键脚本以及docker部署,OK",
+          "language": ""
+        },
+        {
+          "name": "xrayr-install-scripts",
+          "url": "https://github.com/ssmhdssmhd/xrayr-install-scripts",
+          "description": "自动安装XrayR Trojan并对接NewV2Board面板",
+          "language": "Shell"
+        },
+        {
+          "name": "aurora",
+          "url": "https://github.com/ssmhdssmhd/aurora",
+          "description": "A v2ray manyuser manage      V2Board专用节点代理工具",
+          "language": ""
+        },
+        {
+          "name": "v2board",
+          "url": "https://github.com/ssmhdssmhd/v2board",
+          "description": "🚀A multiple proxy protocol manage panel application interface",
+          "language": ""
+        },
+        {
+          "name": "v2board-theme-LuFly",
+          "url": "https://github.com/ssmhdssmhd/v2board-theme-LuFly",
+          "description": "V2board前端展示页",
+          "language": ""
+        },
+        {
+          "name": "Bob-Theme-Argon",
+          "url": "https://github.com/ssmhdssmhd/Bob-Theme-Argon",
+          "description": "适配v2board v1.5.1以上版本的前端主题",
+          "language": ""
+        },
+        {
+          "name": "ProxyPanel",
+          "url": "https://github.com/ssmhdssmhd/ProxyPanel",
+          "description": "A web application managing multiple proxy protocols, including features like multi-payment systems, account management, admin notifications, and product models.",
+          "language": ""
+        },
+        {
+          "name": "PandoraHelper",
+          "url": "https://github.com/ssmhdssmhd/PandoraHelper",
+          "description": "使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "🤖 AI & LLM 工具",
+      "count": 17,
+      "repos": [
+        {
+          "name": "AiCode",
+          "url": "https://github.com/ssmhdssmhd/AiCode",
+          "description": "在 Android 上运行的 AI 代码编辑器，内置 Linux 终端、AI Agent 与 MCP 协议。",
+          "language": ""
+        },
+        {
+          "name": "AingDesk",
+          "url": "https://github.com/ssmhdssmhd/AingDesk",
+          "description": "AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly.",
+          "language": ""
+        },
+        {
+          "name": "AI_NovelGenerator",
+          "url": "https://github.com/ssmhdssmhd/AI_NovelGenerator",
+          "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+          "language": ""
+        },
+        {
+          "name": "awesome-deepseek-integration",
+          "url": "https://github.com/ssmhdssmhd/awesome-deepseek-integration",
+          "description": "Integrate the DeepSeek API into popular softwares",
+          "language": ""
+        },
+        {
+          "name": "Awesome-Ollama-Server",
+          "url": "https://github.com/ssmhdssmhd/Awesome-Ollama-Server",
+          "description": "这是一个用于监控和检测 Ollama 服务可用性和性能的系统。它提供了一个现代化的 Web 界面，支持多语言（中文/英文），并具有实时检测和数据展示功能。",
+          "language": ""
+        },
+        {
+          "name": "cherry-studio",
+          "url": "https://github.com/ssmhdssmhd/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": ""
+        },
+        {
+          "name": "ComfyUI",
+          "url": "https://github.com/ssmhdssmhd/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": ""
+        },
+        {
+          "name": "deepseek-harness-desktop",
+          "url": "https://github.com/ssmhdssmhd/deepseek-harness-desktop",
+          "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+          "language": ""
+        },
+        {
+          "name": "free-llm-api-resources",
+          "url": "https://github.com/ssmhdssmhd/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": ""
+        },
+        {
+          "name": "gallery",
+          "url": "https://github.com/ssmhdssmhd/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "language": ""
+        },
+        {
+          "name": "Lithe-IDEA",
+          "url": "https://github.com/ssmhdssmhd/Lithe-IDEA",
+          "description": "A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.",
+          "language": ""
+        },
+        {
+          "name": "nalang-bot",
+          "url": "https://github.com/ssmhdssmhd/nalang-bot",
+          "description": "A powerful multi-model AI Telegram bot supporting NaLang, Gemini, and DeepSeek",
+          "language": ""
+        },
+        {
+          "name": "neko-api-key-tool",
+          "url": "https://github.com/ssmhdssmhd/neko-api-key-tool",
+          "description": "New API 根据Key查询使用详情",
+          "language": ""
+        },
+        {
+          "name": "new-api",
+          "url": "https://github.com/ssmhdssmhd/new-api",
+          "description": "AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+          "language": ""
+        },
+        {
+          "name": "TRAE-Ollama-Bridge",
+          "url": "https://github.com/ssmhdssmhd/TRAE-Ollama-Bridge",
+          "description": "Encapsulate the local Ollama into an OpenAI-compatible API to bypass the fixed model limitations in IDEs like TRAE.",
+          "language": ""
+        },
+        {
+          "name": "TraeProxy",
+          "url": "https://github.com/ssmhdssmhd/TraeProxy",
+          "description": "Trae IDE Proxy 是一个专为 Trae IDE 设计的代理服务，用于在 Trae IDE 和 NVIDIA 开源大模型及本地大模型之间建立连接，实现请求转发和响应处理。该项目允许用户在 Trae IDE 中无缝使用 NVIDIA 提供的各种高性能大语言模型，扩展了 Trae IDE 的 AI 辅助能力。",
+          "language": ""
+        },
+        {
+          "name": "kh",
+          "url": "https://github.com/ssmhdssmhd/kh",
+          "description": "用来记录开会时领导说的内容，和会议纪要和记得，并且自动整理，和总结要点。上面可以选择各个岗位的开会要点等等",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "hosting",
+      "title": "☁️ 图床 / 网盘 / 文件",
+      "count": 9,
+      "repos": [
+        {
+          "name": "ssmhdtc",
+          "url": "https://github.com/ssmhdssmhd/ssmhdtc",
+          "description": "个人图床",
+          "language": ""
+        },
+        {
+          "name": "imgurl",
+          "url": "https://github.com/ssmhdssmhd/imgurl",
+          "description": "ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。",
+          "language": ""
+        },
+        {
+          "name": "PixPro",
+          "url": "https://github.com/ssmhdssmhd/PixPro",
+          "description": "PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。",
+          "language": ""
+        },
+        {
+          "name": "PHP-Random-Pic-API",
+          "url": "https://github.com/ssmhdssmhd/PHP-Random-Pic-API",
+          "description": "随机图片API程序",
+          "language": ""
+        },
+        {
+          "name": "toopan",
+          "url": "https://github.com/ssmhdssmhd/toopan",
+          "description": "类似zdir 免费网盘, 免费图床, 临时网盘,, 文件外链, 文件猎奇, 免费外链, 游客上传",
+          "language": ""
+        },
+        {
+          "name": "Cloudreve",
+          "url": "https://github.com/ssmhdssmhd/Cloudreve",
+          "description": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+          "language": ""
+        },
+        {
+          "name": "alist",
+          "url": "https://github.com/ssmhdssmhd/alist",
+          "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+          "language": ""
+        },
+        {
+          "name": "dirlist",
+          "url": "https://github.com/ssmhdssmhd/dirlist",
+          "description": "彩虹目录列表PHP站点程序",
+          "language": "PHP"
+        },
+        {
+          "name": "MXLOGO",
+          "url": "https://github.com/ssmhdssmhd/MXLOGO",
+          "description": "射手沫蝴蝶 Logo 资产库 - App 图标 / Web Logo / Favicon 全套，多 CDN 加速直链",
+          "language": "HTML"
+        }
+      ]
+    },
+    {
+      "key": "ops",
+      "title": "🛠️ 服务器运维 & 面板",
+      "count": 14,
+      "repos": [
+        {
+          "name": "1Panel",
+          "url": "https://github.com/ssmhdssmhd/1Panel",
+          "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
+          "language": ""
+        },
+        {
+          "name": "BT-Pure-Edition",
+          "url": "https://github.com/ssmhdssmhd/BT-Pure-Edition",
+          "description": "宝塔纯净版-来自大佬",
+          "language": ""
+        },
+        {
+          "name": "btcloud",
+          "url": "https://github.com/ssmhdssmhd/btcloud",
+          "description": "PHP开发的宝塔面板第三方云端",
+          "language": "Shell"
+        },
+        {
+          "name": "EasyAdmin8",
+          "url": "https://github.com/ssmhdssmhd/EasyAdmin8",
+          "description": "基于ThinkPHP8.0搭建的后台管理系统EasyAdmin8，PHP 最低版本要求不低于 8.0、Layui v2.9.x.",
+          "language": ""
+        },
+        {
+          "name": "kkTerminal",
+          "url": "https://github.com/ssmhdssmhd/kkTerminal",
+          "description": "kkTerminal，一个web终端实现ssh远程连接服务器。kkTerminal, a web-based terminal for SSH remote server connection.",
+          "language": ""
+        },
+        {
+          "name": "LinuxMirrors",
+          "url": "https://github.com/ssmhdssmhd/LinuxMirrors",
+          "description": "GNU/Linux 更换系统软件源脚本及 Docker 安装脚本",
+          "language": ""
+        },
+        {
+          "name": "docker-goedge",
+          "url": "https://github.com/ssmhdssmhd/docker-goedge",
+          "description": "使用Docker快速部署GoEdge管理平台（包含API节点）和边缘节点。",
+          "language": ""
+        },
+        {
+          "name": "sh",
+          "url": "https://github.com/ssmhdssmhd/sh",
+          "description": "一款全功能的Linux管理脚本！",
+          "language": "Shell"
+        },
+        {
+          "name": "NanYiNet_Install",
+          "url": "https://github.com/ssmhdssmhd/NanYiNet_Install",
+          "description": "NanYiNet Install 程序安装页",
+          "language": ""
+        },
+        {
+          "name": "dnsmgr",
+          "url": "https://github.com/ssmhdssmhd/dnsmgr",
+          "description": "彩虹聚合DNS管理系统",
+          "language": ""
+        },
+        {
+          "name": "Newlangs4",
+          "url": "https://github.com/ssmhdssmhd/Newlangs4",
+          "description": "厚浪开发的新一代二级域名系统",
+          "language": ""
+        },
+        {
+          "name": "YPay",
+          "url": "https://github.com/ssmhdssmhd/YPay",
+          "description": "YPay是专为个人站长打造的聚合免签支付系统，拥有卓越的性能和丰富的功能。它采用全新轻量化的界面UI，让您能更方便快捷地解决知识付费和运营赞助的难题。同时，它基于高性能的ThinkPHP 6.1.4 + Layui2.9.9 + PearAdmin架构，提供实时监控和管理功能，让您随时随地掌握系统运营情况。",
+          "language": ""
+        },
+        {
+          "name": "webvm",
+          "url": "https://github.com/ssmhdssmhd/webvm",
+          "description": "Virtual Machine for the Web",
+          "language": ""
+        },
+        {
+          "name": "billd-desk",
+          "url": "https://github.com/ssmhdssmhd/billd-desk",
+          "description": "基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "web",
+      "title": "🌍 网站 & 前端模板",
+      "count": 6,
+      "repos": [
+        {
+          "name": "art-design-pro",
+          "url": "https://github.com/ssmhdssmhd/art-design-pro",
+          "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
+          "language": ""
+        },
+        {
+          "name": "vue2-thinkphp5",
+          "url": "https://github.com/ssmhdssmhd/vue2-thinkphp5",
+          "description": "thinkphp & vue & layui",
+          "language": ""
+        },
+        {
+          "name": "noisework",
+          "url": "https://github.com/ssmhdssmhd/noisework",
+          "description": "#主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位",
+          "language": ""
+        },
+        {
+          "name": "Personal_Sakura_Guide_Page",
+          "url": "https://github.com/ssmhdssmhd/Personal_Sakura_Guide_Page",
+          "description": "一款好看的樱花个人引导页，普通虚拟主机即可搭建，无需其他环境。把源码上传到服务器，修改index.html里面的代码，访问域名就可以使用。纯Html-Css-JavaScript",
+          "language": ""
+        },
+        {
+          "name": "appto_dl",
+          "url": "https://github.com/ssmhdssmhd/appto_dl",
+          "description": "appto后端本地化程序",
+          "language": ""
+        },
+        {
+          "name": "android-locker",
+          "url": "https://github.com/ssmhdssmhd/android-locker",
+          "description": "A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) and is optimized for deployment on GitHub Pages with custom domain support.",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "android",
+      "title": "📱 Android 应用",
+      "count": 8,
+      "repos": [
+        {
+          "name": "web-to-app",
+          "url": "https://github.com/ssmhdssmhd/web-to-app",
+          "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
+          "language": ""
+        },
+        {
+          "name": "Apktool-M-updates",
+          "url": "https://github.com/ssmhdssmhd/Apktool-M-updates",
+          "description": "Apktool M updates. ",
+          "language": ""
+        },
+        {
+          "name": "code_lfa",
+          "url": "https://github.com/ssmhdssmhd/code_lfa",
+          "description": "Port VS Code to Android and support local operation（开发）",
+          "language": ""
+        },
+        {
+          "name": "mxsyxj",
+          "url": "https://github.com/ssmhdssmhd/mxsyxj",
+          "description": "今日水印相机 - 支持实时定位修改、时间修改和防伪验真的水印相机应用",
+          "language": "JavaScript"
+        },
+        {
+          "name": "moely-wallpaper",
+          "url": "https://github.com/ssmhdssmhd/moely-wallpaper",
+          "description": "萌哩壁纸 (moely wallpaper) - 每日随机二次元壁纸。图图有惊喜，天天都欣喜。",
+          "language": ""
+        },
+        {
+          "name": "NagramX",
+          "url": "https://github.com/ssmhdssmhd/NagramX",
+          "description": "A variant of Nagram with additional features.",
+          "language": ""
+        },
+        {
+          "name": "Antigravity-Manager",
+          "url": "https://github.com/ssmhdssmhd/Antigravity-Manager",
+          "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+          "language": ""
+        },
+        {
+          "name": "openpilot",
+          "url": "https://github.com/ssmhdssmhd/openpilot",
+          "description": "Easy Driving~!!车辆辅助器",
+          "language": ""
+        }
+      ]
+    },
+    {
+      "key": "tools",
+      "title": "🔧 实用工具 & 杂项",
+      "count": 5,
+      "repos": [
+        {
+          "name": "cat-catch",
+          "url": "https://github.com/ssmhdssmhd/cat-catch",
+          "description": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+          "language": ""
+        },
+        {
+          "name": "public-apis",
+          "url": "https://github.com/ssmhdssmhd/public-apis",
+          "description": "A collective list of free APIs",
+          "language": ""
+        },
+        {
+          "name": "spark",
+          "url": "https://github.com/ssmhdssmhd/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": ""
+        },
+        {
+          "name": "ysbdb",
+          "url": "https://github.com/ssmhdssmhd/ysbdb",
+          "description": "用来对比各种压缩包与压缩包对比，用户只需要上传自动做对比，包含子文件，提取出不同的文件来",
+          "language": ""
+        },
+        {
+          "name": "vnite",
+          "url": "https://github.com/ssmhdssmhd/vnite",
+          "description": "本地游戏管理器 / Game Manager",
+          "language": "TypeScript"
+        }
+      ]
+    },
+    {
+      "key": "empty",
+      "title": "⏳ 空仓库 / 待整理",
+      "count": 4,
+      "repos": [
+        {
+          "name": "mxssmhd",
+          "url": "https://github.com/ssmhdssmhd/mxssmhd",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "mx",
+          "url": "https://github.com/ssmhdssmhd/mx",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "MXWN",
+          "url": "https://github.com/ssmhdssmhd/MXWN",
+          "description": "",
+          "language": ""
+        },
+        {
+          "name": "mxlisten",
+          "url": "https://github.com/ssmhdssmhd/mxlisten",
+          "description": "",
+          "language": ""
+        }
+      ]
+    }
+  ]
+}
